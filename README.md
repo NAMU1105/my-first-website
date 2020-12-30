@@ -1,6 +1,7 @@
 # My First Website(블러셔 판매 사이트)
 
 <img width="500"  src="https://user-images.githubusercontent.com/47317129/103041562-13999d00-45ba-11eb-8e7a-72984653cd42.PNG" >
+
 ## Inspiration
 
 블러셔(볼터치)를 좋아하는 사람으로서, 블러셔를 사고 팔고, 관련한 이야기를 나눌 수 있는 웹사이트를 만들고싶었습니다.
