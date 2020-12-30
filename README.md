@@ -8,7 +8,7 @@
 
 ## What it does
 
-1. ###### 회원가입, 로그인, 자동로그인, 정보변경
+1. ###### 회원가입, 로그인, 자동로그인, 회원정보변경
 
 <img   src="https://user-images.githubusercontent.com/47317129/103042676-c8818900-45bd-11eb-8aeb-7a234f45aa58.PNG" >
 
