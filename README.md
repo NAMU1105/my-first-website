@@ -5,6 +5,7 @@
 ## Inspiration
 
 블러셔(볼터치)를 좋아하는 사람으로서, 블러셔를 사고 팔고, 관련한 이야기를 나눌 수 있는 웹사이트를 만들고싶었습니다.
+
 As a person who likes blusher (blush), I wanted to create a website where I could buy, sell, and talk about blusher.
 
 ## What it does
@@ -31,12 +32,14 @@ As a person who likes blusher (blush), I wanted to create a website where I coul
 
 APM(Apache, PHP, MySQL) 수동 설치를 통한 서버구축부터 모두 직접 만든 프로젝트입니다.
 프론트엔드는 HTML, CSS, Bootstrap으로 만들었고 백엔드는 PHP, DB는 MySQL을 사용하였습니다.
+
 From server construction through manual installation of APM (Apache, PHP, MySQL), everything is a self-made project.
 The frontend was built with HTML, CSS, and Bootstrap, the backend with PHP, and for DB I used MySQL.
 
 ## Accomplishments that I'am proud of
 
 서버, 클라이언트 개념도 모르는 상태에서 시작해서 직접 서버구축부터 CSS까지 모두 짧은 기간안에 해냈다는 점입니다.
+
 That I started without even knowing the concept of server and client, and did everything from building a server to CSS in a short period of time.
 
 
